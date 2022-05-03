@@ -119,7 +119,9 @@ final class Currency
     public const ZWD = 'ZWD';
 
     /**
-     * @var array|\string[][]
+     * All currencies
+     *
+     * @var array|string[][]
      */
     private static array $currencies = [
         self::AFN => [
@@ -700,7 +702,9 @@ final class Currency
     }
 
     /**
-     * @return array|\string[][]
+     * Get all currencies list
+     *
+     * @return array|string[][]
      */
     public static function all(): array
     {
