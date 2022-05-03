@@ -2,7 +2,7 @@
     "name": "krepysh-spec/currency",
     "type": "library",
     "description": "World Currency list in PHP constants and array",
-    "keywords": ["currencies", "currency", "php currency constants", "currency-list"],
+    "keywords": ["currencies", "currency", "cash", "money"],
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
