@@ -1,13 +1,14 @@
 {
     "name": "krepysh-spec/currency",
     "type": "library",
-    "description": "World Currency list in PHP constants and array with",
-    "keywords": ["currencies", "currency", "php currency constants", ""],
+    "description": "World Currency list in PHP constants and array",
+    "keywords": ["currencies", "currency", "php currency constants", "currency-list"],
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
-            "name": "Fabien Potencier",
-            "email": "fabien@symfony.com"
+            "name": "Evgeniy Mykhalichenko",
+            "email": "evgeniymykhalichenko@gmail.com"
         }
     ],
     "autoload": {
@@ -17,5 +18,8 @@
     },
     "require": {
         "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
     }
 }
