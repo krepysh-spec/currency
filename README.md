@@ -4,6 +4,8 @@
 If you need to work with currencies in the code and describe each time "USD", "EUR" ... then this solution is for you.
 Enjoy ***echo Currency::EUR >>> "EUR"*** Don't repeat yourself in code.
 
+![Alt Text](media/preview.gif)
+
 ### Features
 - List of all world currencies;
 - Additional fields ***countryName***, ***name***, ***symbol***;
@@ -16,9 +18,10 @@ composer require krepysh-spec/currency
 ### How it works
 
 ```php
-
+echo KrepyshSpec\World\Currency::ANG >> 'ANG'
+echo KrepyshSpec\World\Currency::USD >> 'USD'
+echo KrepyshSpec\World\Currency::EUR >> 'EUR'
 ```
-
 
 ### Support
 
