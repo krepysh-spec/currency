@@ -1,0 +1,21 @@
+{
+    "name": "krepysh-spec/currency",
+    "type": "library",
+    "description": "World Currency list in PHP constants and array with",
+    "keywords": ["currencies", "currency", "php currency constants", ""],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien Potencier",
+            "email": "fabien@symfony.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "KrepyshSpec\\World\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
