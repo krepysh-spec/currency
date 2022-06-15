@@ -3,7 +3,6 @@
     "type": "library",
     "description": "World Currency list in PHP constants and array",
     "keywords": ["currencies", "currency", "cash", "money"],
-    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
