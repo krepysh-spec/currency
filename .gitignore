@@ -1,5 +1,8 @@
 /vendor
+
+# cache files
 .phpunit.result.cache
+.php-cs-fixer.php.cache
 
 # Editor directories and files
 .idea
