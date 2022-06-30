@@ -1,5 +1,10 @@
 # World Currency list in PHP constants and in array (Currency::USD)
-![](https://img.shields.io/github/issues/krepysh-spec/currency) ![](https://img.shields.io/github/forks/krepysh-spec/currency) ![](https://img.shields.io/github/stars/krepysh-spec/currency) ![](https://img.shields.io/github/license/krepysh-spec/currency) 
+[![Build Status](https://circleci.com/gh/krepysh-spec/currency.svg?style=shield)](https://circleci.com/gh/krepysh-spec/currency)
+[![Latest Stable Version](http://poser.pugx.org/krepysh-spec/currency/v)](https://packagist.org/packages/krepysh-spec/currency) 
+[![Total Downloads](http://poser.pugx.org/krepysh-spec/currency/downloads)](https://packagist.org/packages/krepysh-spec/currency)
+[![Latest Unstable Version](http://poser.pugx.org/krepysh-spec/currency/v/unstable)](https://packagist.org/packages/krepysh-spec/currency)
+[![License](http://poser.pugx.org/krepysh-spec/currency/license)](https://packagist.org/packages/krepysh-spec/currency)
+[![PHP Version Require](http://poser.pugx.org/krepysh-spec/currency/require/php)](https://packagist.org/packages/krepysh-spec/currency)
 
 If you need to work with currencies in the code and describe each time "USD", "EUR" ... then this solution is for you.
 Enjoy ***echo Currency::EUR >>> "EUR"*** Don't repeat yourself in code.
